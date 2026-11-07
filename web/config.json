@@ -1,0 +1,10 @@
+{
+  "installerSize": 29586263,
+  "installerSha256": "540c485547e234b0d09595f54d067aafd7176092c308aca61868f3cbc03030e1",
+  "installerUrls": [
+    "https://archive.org/download/little-fighter-2_202404/Little%20Fighter%202.rar/Little%20Fighter%202%2FLF2Setup.exe"
+  ],
+  "logoUrl": "https://raw.githubusercontent.com/devkitPro/gba-tools/master/src/gbafix.c",
+  "pyodide": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/",
+  "ffmpegCore": "https://cdn.jsdelivr.net/npm/@ffmpeg/core@0.12.10/dist/esm/"
+}
